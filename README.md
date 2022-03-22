@@ -21,6 +21,8 @@ This is✨ Linton Jiang ✨, A student majoring in CS, a classical guitar lover.
 <details>
 <summary>Featured Projects 🎬</summary>
 
+#### 🤭
+
 -  [Gatelligance - 凝智成林](https://github.com/JustLinton/gatelligance)
 
 </details>
