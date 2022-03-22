@@ -11,3 +11,23 @@ This is✨ Linton Jiang ✨, A student majoring in CS, a classical guitar lover.
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ![](https://visitor-badge.glitch.me/badge?page_id=JustLinton.readme)
+
+
+
+------
+
+
+
+<details>
+<summary>Featured Projects 🎬</summary>
+
+
+### Featured Projects 🎬
+
+- [ ] 完成3篇以上博客产出 (0/3)
+
+- [ ] 读完三本书 (0/3)
+
+ > 《如何阅读一本书》、《金字塔原理》、---
+
+</details>
