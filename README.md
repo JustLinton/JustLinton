@@ -1,3 +1,5 @@
+![](https://s1.ax1x.com/2022/03/22/qKdz8A.png)
+
 ### Hi there 👋
 
 This is✨ Linton Jiang ✨, A student majoring in CS, a classical guitar lover.
