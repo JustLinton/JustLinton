@@ -1,6 +1,6 @@
 ![](https://s1.ax1x.com/2022/03/22/qKdz8A.png)
 
-#### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little more about me...  
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little more about me...  
 
 <p><em>This is✨ Linton Jiang ✨, A student majoring in CS, a classical guitar lover.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 </em></p>
