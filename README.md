@@ -2,7 +2,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little more about me...  
 
-<p><em>This is✨ Linton Jiang ✨, A student majoring in CS, a classical guitar lover.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+<p><em>This is✨ Linton Jiang ✨, A student majoring in CS, a classical guitar lover.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> 
 </em></p>
 
 - 🔭 I’m currently diving in Operating System.
