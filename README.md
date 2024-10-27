@@ -5,11 +5,10 @@
 <p><em>This is✨ Linton Jiang ✨, A student majoring in CS, a classical guitar lover.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> 
 </em></p>
 
-- 💼 I used to be employed by ByteDance (TikTok), DJI, China Telecom and DiDi.
+- 💼 I used to be employed by Microsoft, ByteDance (TikTok), and DJI.
 - 🔭 I’m currently diving in Operating System.
 - 🌱 I’m currently learning Golang and Reinforcement Learning.
-- 📫 How to reach me: Email [[lintonjiang@outlook.com]](mailto:lintonjiang@outlook.com).
-- ⚡ Fun fact: Netease Music Artist (Linton_C)🎵, the university's outstanding monitor, outstanding student leaders, and social practice advanced individual.
+- ⚡ Fun fact: Netease Music Artist 🎵, the university's outstanding student leaders, and advanced individual.
 
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustLinton&show_icons=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustLinton&layout=compact&hide=html,scss,vue,css,java)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -25,6 +24,6 @@
 
 ### Featured Projects 🎬
 
--  [Gatelligance - 凝智成林](https://github.com/JustLinton/gatelligance)
+-  None
 
 </details>
